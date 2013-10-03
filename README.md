@@ -97,4 +97,4 @@ isChild:true
 >>>version    [v.1.1.2.1.1][id]
 >>>version    [v.1.1.2.1.2][id]
 >>>version    [v.1.1.2.1.3][id]
-[id]: http://kardesyazilim.net/  (Kardeş Yazılım Help Desk)
+[id]: http://kardesyazilim.net/  (Kardeş Yazılım Version Information)
