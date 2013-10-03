@@ -85,5 +85,21 @@
 >>>>>> **`{#MODULEFOLDER#}`**
 >>>>>>> _`{#MODULEFILE#}`_ 
 
+>>skins
+
+>>var
+
+>>index.php
+>>.htaccess
+>>.private_key
+>>version.json
+>>cron.php
+>>cron.sh
+>>favicon.ico
+>>apple[57].png
+>>apple[72].png
+>>apple[114].png
+>>apple[144].png
+
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
