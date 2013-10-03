@@ -5,7 +5,6 @@
 | title | Başlarken|
 | isChild | false |
 
-# Başlarken {#baslarken_title}
 
 ![alt text][logo]
 ![alt text][logo2]
