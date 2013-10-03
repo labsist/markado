@@ -21,7 +21,7 @@
 
  
 
-[Markado](http://markado.com) **erp v1.3b**.
+[Markado](http://markado.com) **ERP v1.3b**.
 [data]: http://markado.com
 
 | id       | company        | value          | parent_id | lang | update_time | create_time |
@@ -31,6 +31,9 @@
 | 1 | `_www`     | [markado.com][markado]      | 1 | tr_TR |  |  |
 | 1 | `_email`     | carina@markado.com     | 1 | tr_TR |  |  |
 | 1 | `_phone`     | +90 216 693 12 55     | 1 | tr_TR |  |  |
+| 1 | `_lisence`     | B2C, B2B, CRM, HR     | 1 | tr_TR |  |  |
+| 1 | `_key`     | NULL     | 1 | tr_TR |  |  |
+
 
 [markado]: http://markado.com
 
@@ -51,9 +54,9 @@
 >>>>[v.1.0.1.0.1](/_push/v.1.0.1.0.1.md)
 >>>>>[v.1.0.1.0.1.0]()
 >>>>>><pre>
-<a herf="/_push/.md/">v.1.0.1.0.1.1</a>
-<a herf="/_push/.md/">v.1.0.1.0.1.2</a>
-<a herf="/_push/.md/">v.1.0.1.0.1.3</a>
+<a herf="/_push/v.1.0.1.0.1.1.md/">v.1.0.1.0.1.1</a>
+<a herf="/_push/v.1.0.1.0.1.2.md/">v.1.0.1.0.1.2</a>
+<a herf="/_push/v.1.0.1.0.1.3.md/">v.1.0.1.0.1.3</a>
 </pre>
 
 >>>>> version [v.1.0.1.0.2.0]() 
