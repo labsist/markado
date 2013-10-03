@@ -1,8 +1,9 @@
 <MTMarkdownOptions output='raw'>
----
-title: Başlarken
-isChild: false
----
+
+| id | value |
+| ------------- |:-------------: |
+| title | Başlarken|
+| isChild | false |
 
 # Başlarken {#baslarken_title}
 
