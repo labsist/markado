@@ -30,6 +30,7 @@
 >>>>{#MODULEFOLDER#}
 >>>>>{#MODULEFILE#}
 >>>_etc
+
 >>>>locale
 >>>>>{#MODULEFOLDER#}
 >>>>>>{#MODULEFILE#}
