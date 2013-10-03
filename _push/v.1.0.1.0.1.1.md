@@ -24,7 +24,7 @@
 
 #file tree
 
->     _www [title] [description] [permission] [user] [group] [permission]
+>     _www [title] [description] [permission] [user] [group] 
 >> **apps** [title] [description] [permission] [user] [group]
 >>> **_core** [title] [description] [permission] [user] [group]
 >>>> **`{#MODULEFOLDER#}`** [title] [description] [permission] [user] [group]
