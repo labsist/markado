@@ -21,7 +21,7 @@
 
  
 
-[Markado](http://markado.com) **erp**.
+[Markado](http://markado.com) **erp v1.3b**.
 [data]: http://markado.com
 
 | id       | company        | value          | parent_id | lang | update_time | create_time |
