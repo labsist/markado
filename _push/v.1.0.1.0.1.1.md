@@ -25,27 +25,27 @@
 #file tree
 
 >     _www [title] [description] [permission] [user] [group]
->> **apps**
->>> **_core**
->>>> **`{#MODULEFOLDER#}`**
->>>>> _`{#MODULEFILE#}`_
+>> **apps** [title] [description] [permission] [user] [group]
+>>> **_core** [title] [description] [permission] [user] [group]
+>>>> **`{#MODULEFOLDER#}`** [title] [description] [permission] [user] [group]
+>>>>> _`{#MODULEFILE#}`_ [title] [description] [permission] [user] [group]
 
->>> **_etc**
->>>> **locale**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_
+>>> **_etc** [title] [description] [permission] [user] [group]
+>>>> **locale** [title] [description] [permission] [user] [group]
+>>>>> **`{#MODULEFOLDER#}`** [title] [description] [permission] [user] [group]
+>>>>>> _`{#MODULEFILE#}`_ [title] [description] [permission] [user] [group]
 
->>>>> _`{#CORECONFIGFILE#}`_
+>>>>> _`{#CORECONFIGFILE#}`_ [title] [description] [permission] [user] [group]
 
->>>>> _`{#BOOTLOADERFILE#}`_
+>>>>> _`{#BOOTLOADERFILE#}`_ [title] [description] [permission] [user] [group]
 
->>>>> _`{#DBCONFIGFILE#}`_
+>>>>> _`{#DBCONFIGFILE#}`_ [title] [description] [permission] [user] [group]
 
->>>>> **lang**
+>>>>> **lang** [title] [description] [permission] [user] [group]
 
->>>>>> **`{#LANGFOLDER#}`**
+>>>>>> **`{#LANGFOLDER#}`** [title] [description] [permission] [user] [group]
  
->>>>>>> _`{#LANGFILE#}`_
+>>>>>>> _`{#LANGFILE#}`_ [title] [description] [permission] [user] [group]
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
