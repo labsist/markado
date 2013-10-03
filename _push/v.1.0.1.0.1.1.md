@@ -25,10 +25,10 @@
 #file tree
 
 > _www
->> apps
->>> #**_core**
+>> **apps**
+>>> **_core**
 >>>> **{#MODULEFOLDER#}**
->>>>> {#MODULEFILE#}
+>>>>> _{#MODULEFILE#}_
 
 >>> **_etc**
 >>>> **locale**
