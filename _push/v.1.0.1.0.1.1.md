@@ -29,8 +29,8 @@
 >>>_core
 >>>>{#MODULEFOLDER#}
 >>>>>{#MODULEFILE#}
->>>_etc
 
+>>>_etc
 >>>>locale
 >>>>>{#MODULEFOLDER#}
 >>>>>>{#MODULEFILE#}
