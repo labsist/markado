@@ -22,5 +22,13 @@
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
 | 1 | dir | NULL | Apps Root (_www) | Aplication Default Folder | 0 | | | |
 
+#file tree
+
+>_www
+>>apps
+>>>_core
+>>>>{#MODULEFOLDER#}
+>>>>>{#MODULEFILE#}
+
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
