@@ -18,13 +18,13 @@
 | 3 | _sql | MYSQL | Welcome to the MySQL monitor.  Commands end with ; or \g. Your MySQL connection id is 1 Server version: 5.6.14 MySQL Community Server (GPL) | 5.6.14 | service | | |
 
 #document root (_www)
-| id | filetype | ext | title | description | parent_id | update_time | create_time |
-| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-| 1 | dir | NULL | Apps Root (_www) | Aplication Default Folder | 0 | | | |
+| id | filetype | ext | title | description | parent_id | user | group | permission |update_time | create_time |
+| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
+| 1 | dir | NULL | Apps Root (_www) | Aplication Default Folder | 0 | _www | _www | 755 | | |
 
 #file tree
 
->     _www [title] [description] [permission] [user] [group]
+>     _www [title] [description] [permission] [user] [group] [permission]
 >> **apps** [title] [description] [permission] [user] [group]
 >>> **_core** [title] [description] [permission] [user] [group]
 >>>> **`{#MODULEFOLDER#}`** [title] [description] [permission] [user] [group]
@@ -50,6 +50,8 @@
 >>> **_urs** [title] [description] [permission] [user] [group]
 >>>> **admin**
 >>>>> **default**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
 
 >>>> **frontend**
 >>>>> **default**
@@ -57,6 +59,8 @@
 >>>> **mobil**
 >>>>> **default**
 
+>>>> **ext**
+>>>>> **default**
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
