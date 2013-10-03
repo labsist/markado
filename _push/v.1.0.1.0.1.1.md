@@ -36,10 +36,16 @@
 >>>>>> __{#MODULEFILE#}__
 
 >>>>> __{#CORECONFIGFILE#}__
+
 >>>>> __{#BOOTLOADERFILE#}__
+
 >>>>> __{#DBCONFIGFILE#}__
+
 >>>>> **lang**
->>>>>> **{#LANGFOLDER#} 
+
+>>>>>> **{#LANGFOLDER#}**
+ 
 >>>>>>> __{#LANGFILE#}__
+
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
