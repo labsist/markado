@@ -18,7 +18,7 @@ isChild: false
 
 ><pre>
 <code>
-<p>`[`company_name]()``</p>
+<p>``[company_name]()``</p>
 <p>[company_adress]</p>
 <p>[company_www]</p>
 <p>[company_email]</p>
