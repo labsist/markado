@@ -28,7 +28,7 @@
 >> **apps**
 >>> **_core**
 >>>> **{#MODULEFOLDER#}**
->>>>> _{#MODULEFILE#}_
+>>>>> _`{#MODULEFILE#}`_
 
 >>> **_etc**
 >>>> **locale**
@@ -46,6 +46,7 @@
 >>>>>> **{#LANGFOLDER#}**
  
 >>>>>>> __{#LANGFILE#}__
+
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
