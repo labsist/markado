@@ -33,7 +33,13 @@
 >>> **_etc**
 >>>> **locale**
 >>>>> **{#MODULEFOLDER#}**
->>>>>>{#MODULEFILE#}
+>>>>>> __{#MODULEFILE#}__
 
+>>>>> __{#CORECONFIGFILE#}__
+>>>>> __{#BOOTLOADERFILE#}__
+>>>>> __{#DBCONFIGFILE#}__
+>>>>> **lang**
+>>>>>> **{#LANGFOLDER#} 
+>>>>>>> __{#LANGFILE#}__
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
