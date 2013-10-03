@@ -1,5 +1,13 @@
 <MTMarkdownOptions output='raw'>
 
+![alt text][logo]
+![alt text][logo2]
+
+[logo]: http://kardesyazilim.net/kardes_yazilim_transparent.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo2]: http://kardesyazilim.net/markado.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+
+
+
 | id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
 | title | Başlarken|  | |
@@ -8,11 +16,9 @@
 | version | v.1.3b | | |
 
 
-![alt text][logo]
-![alt text][logo2]
 
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo2]: http://kardesyazilim.net/markado.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+
+
  
 
 [Markado](http://markado.com) **erp**.
