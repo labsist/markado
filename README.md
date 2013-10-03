@@ -8,27 +8,15 @@ isChild:true
 
 #Markado ERP(carina v1.0b)
 -------
->**test**
->>test
->>**test**
->>>test
->>>**test**
->test
-
-
-
-
-
->  version    [v.1.0.0.1][id]
->> version    [v.1.0.0.1.0][id]   
+>     version    [v.1.0.0.1][id]
+>>    version    [v.1.0.0.1.0][id]   
 >>> - version    [v.1.1.0.1.1][id]
->>> - version   [v.1.1.0.1.2][id]
->>> - version  [v.1.1.0.1.3][id]
-
->> version     [v.1.1.0.2.0][id]
->>>version     [v.1.1.0.2.1][id]
->>>>version    [v.1.1.0.2.2][id]
->>>>>version   [v.1.1.0.2.3][id]
+>>> - version    [v.1.1.0.1.2][id]
+>>> - version    [v.1.1.0.1.3][id]
+>>    version    [v.1.1.0.2.0][id]
+>>> - version    [v.1.1.0.2.1][id]
+>>> - version    [v.1.1.0.2.2][id]
+>>> - version    [v.1.1.0.2.3][id]
 >> version    [v.1.1.0.3.0][id]
 >>>version    [v.1.1.0.3.1][id]
 >>>version    [v.1.1.0.3.2][id]
