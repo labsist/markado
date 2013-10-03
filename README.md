@@ -1,9 +1,11 @@
 <MTMarkdownOptions output='raw'>
 
-| id | value | _standart | _version|
+| id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
-| title | Başlarken| PSR-0  | v.1.3b |
-| isChild | false | PSR-0  | v.1.3b |
+| title | Başlarken|  | |
+| isChild | false | | |
+| standart | PSR-0 | | |
+| version | v.1.3b | | |
 
 
 ![alt text][logo]
