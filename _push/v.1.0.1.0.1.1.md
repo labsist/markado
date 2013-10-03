@@ -60,12 +60,30 @@
 
 >>>> **frontend**
 >>>>> **default**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>>> **markado**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
 
 >>>> **mobil**
 >>>>> **default**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>>> **markado**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
 
 >>>> **ext**
 >>>>> **default**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>>> **markado**
+>>>>>> **`{#MODULEFOLDER#}`**
+>>>>>>> _`{#MODULEFILE#}`_ 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
