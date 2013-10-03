@@ -33,19 +33,19 @@
 >>> **_etc**
 >>>> **locale**
 >>>>> **`{#MODULEFOLDER#}`**
->>>>>> __`{#MODULEFILE#}`__
+>>>>>> _`{#MODULEFILE#}`_
 
->>>>> __`{#CORECONFIGFILE#}`__
+>>>>> _`{#CORECONFIGFILE#}`_
 
->>>>> __`{#BOOTLOADERFILE#}`__
+>>>>> _`{#BOOTLOADERFILE#}`_
 
->>>>> __`{#DBCONFIGFILE#}`__
+>>>>> _`{#DBCONFIGFILE#}`_
 
 >>>>> **lang**
 
 >>>>>> **`{#LANGFOLDER#}`**
  
->>>>>>> __`{#LANGFILE#}`__
+>>>>>>> _`{#LANGFILE#}`_
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
