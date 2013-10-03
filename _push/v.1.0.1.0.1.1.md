@@ -20,7 +20,7 @@
 #document root (_www)
 | id | filetype | ext | title | description | parent_id | update_time | create_time |
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-| 1 | dir | NULL | _www | Apps Root (_www) | Aplication Default Folder  |0|||
+| 1 | dir | NULL | Apps Root (_www) | Aplication Default Folder | 0 | | | |
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
