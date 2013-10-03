@@ -22,10 +22,11 @@
 | ------------- |:------------- |:-------------:| -------------:| :-------------:| :-------------:| :-------------:|
 | 1 | `_name`      |  Markado LTD. ŞTİ| 0 | tr_TR |  |  |
 | 1 | `_adress`     | kavacık      | 1 | tr_TR |  |  |
-| 1 | `_www`     | markado.com      | 1 | tr_TR |  |  |
+| 1 | `_www`     | [markado.com][markado]      | 1 | tr_TR |  |  |
 | 1 | `_email`     | carina@markado.com     | 1 | tr_TR |  |  |
 | 1 | `_phone`     | +90 216 693 12 55     | 1 | tr_TR |  |  |
 
+[markado]: http://markado.com
 
 
 
