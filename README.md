@@ -4,19 +4,20 @@
 
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo2]: http://kardesyazilim.net/markado.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-- - - 
+ 
 
 [Markado](http://markado.com) **erp**.
 [data]: http://markado.com
 
-> [company_name] 
-> [company_adress]
-> [company_www]
-> [company_email]
-> [company_phone]
+><pre>
+<p>[{#company_name#}]</p>
+<p>[{#company_adress#}]</p>
+<p>[{#company_www#}]</p>
+<p>[{#company_email#}]</p>
+<p>[{#company_phone#}]</p>
+</pre>
 
 
----
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
 #markado erp. - [carina v.1.1b](_push/v.1.1.b.md) #
 
