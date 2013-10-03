@@ -7,7 +7,7 @@ isChild:true
 =======
 
 #Markado ERP(carina v1.0b)
--------
+
 >     version    [v.1.0.0.1][id]
 -------
 >>    version    [v.1.0.0.1.0][id]  
