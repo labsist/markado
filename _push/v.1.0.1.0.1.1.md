@@ -47,6 +47,16 @@
  
 >>>>>>> _`{#LANGFILE#}`_ [title] [description] [permission] [user] [group]
 
+>>> **_urs** [title] [description] [permission] [user] [group]
+>>>> **admin**
+>>>>> **default**
+
+>>>> **frontend**
+>>>>> **default**
+
+>>>> **mobil**
+>>>>> **default**
+
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
