@@ -16,13 +16,13 @@ isChild: false
 [Markado](http://markado.com) **erp**.
 [data]: http://markado.com
 
-| id       | company        | value          |
-| ------------- |:------------- |:-------------:|
-| 1 | `_name`      |  Markado LTD. ŞTİ|
-| 1 | `_adress`     | kavacık      |
-| 1 | `_www`     | markado.com      |
-| 1 | `_email`     | carina@markado.com     |
-| 1 | `_phone`     | +90 216 693 12 55     |
+| id       | company        | value          | parent_id |
+| ------------- |:------------- |:-------------:| -------------:|
+| 1 | `_name`      |  Markado LTD. ŞTİ| 0 |
+| 1 | `_adress`     | kavacık      | 1 |
+| 1 | `_www`     | markado.com      | 1 |
+| 1 | `_email`     | carina@markado.com     | 1 |
+| 1 | `_phone`     | +90 216 693 12 55     | 1 |
 
 
 
