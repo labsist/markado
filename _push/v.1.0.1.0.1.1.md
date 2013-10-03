@@ -29,6 +29,10 @@
 >>>_core
 >>>>{#MODULEFOLDER#}
 >>>>>{#MODULEFILE#}
+>>>_etc
+>>>>locale
+>>>>>{#MODULEFOLDER#}
+>>>>>>{#MODULEFILE#}
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
