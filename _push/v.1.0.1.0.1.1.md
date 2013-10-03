@@ -24,15 +24,15 @@
 
 #file tree
 
->_www
->>apps
->>>_core
->>>>{#MODULEFOLDER#}
->>>>>{#MODULEFILE#}
+> _www
+>> apps
+>>> #**_core**
+>>>> **{#MODULEFOLDER#}**
+>>>>> {#MODULEFILE#}
 
->>>_etc
->>>>locale
->>>>>{#MODULEFOLDER#}
+>>> **_etc**
+>>>> **locale**
+>>>>> **{#MODULEFOLDER#}**
 >>>>>>{#MODULEFILE#}
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
