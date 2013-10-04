@@ -24,7 +24,7 @@
 
 | id | version | long_version | group | title | help_id | department_id | update_time | create_time |
 | ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]| SYS01 | 1 | NULL | NULL |
+| 1 | v1.0b | ~~v.1.0.1.0.1.1~~ | systems | [title]| SYS01 | 1 | NULL | NULL |
 
 ---
 
