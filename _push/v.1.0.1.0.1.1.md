@@ -314,11 +314,11 @@
 
 
 <pre>
-!NOTE : "_www default apache root folder. "
+! : "_www default apache root folder. "
 </pre>
 
-| id | value | type | ext | mime_type |update_time | create_time|
-| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| id | value | type | ext | mime_type | update_time | create_time| 
+| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 |1|{#MERGEFILE#}| file | md5 | text/plain | NULL | NULL|
 
 
