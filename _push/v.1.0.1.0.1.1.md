@@ -343,7 +343,7 @@
 
 
 
->> asdfdsa
+> ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.rm)
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
