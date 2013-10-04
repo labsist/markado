@@ -261,7 +261,7 @@
 
 >>_`apple[144].png`_
 
-| id | type | name | ext | title | description | parent_id | user | group | permission |
+| id | type | name | ext | title | description | prnt_d | user | group | prmssn |
 | ------------- | :------------- |:------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | 
 | 2 | dir | app | NULL | Core Folder | Aplication APPS Folder | 1 | _www | _www | 755 |
 | 3 | dir | _core | NULL | Core Folder | Aplication Core Folder | 2 | _www | _www | 755 |
