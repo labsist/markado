@@ -234,27 +234,28 @@
 
 
 
->>index.php
+>>_`index.php`_
 
->>.htaccess
+>>_`.htaccess`_
 
->>.private_key
+>>_`.private_key`_
 
->>version.json
+>>_`version.json`_
 
->>cron.php
+>>_`cron.php`_
 
->>cron.sh
+>>_`cron.sh`_
 
->>favicon.ico
+>>_`favicon.ico`_
 
->>apple[57].png
+>>_`apple[57].png`_
 
->>apple[72].png
+>>_`apple[72].png`_
 
->>apple[114].png
+>>_`apple[114].png`_
 
->>apple[144].png
+>>_`apple[144].png`_
+s
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
