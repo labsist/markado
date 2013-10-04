@@ -1,12 +1,20 @@
+##
 # kardeş yazılım ve danışmanlık hizmetleri 
 # carinaerp v.1.3b
-# kardesyazilim.net leo@kardesyazilim.net
-# carinaerp.net leo@carinaerp.net
-# istanbulmobile.net leo@istanbulmobile.net
+# 
+##kardesyazilim.net labs@kardesyazilim.net     [title]("Kardeş Yazılım ve Danışmanlık Hizmetleri") 
+##carinaerp.net labs@carinaerp.net             [title]("Carina ERP systems")
+##istanbulmobile.net labs@istanbulmobile.net   [title]("Istanbul Mobile - HTML5 to use today")
+##redent.net labs@redent.net                   [title]("red interactive entertainment corp. game architecture & gamification research")
+##                                             [title]("intelligent robotics research")
+##
 # dept : labs
 # p_debp: hard
 # pivot : 2.9
+# pivot orjin : 0 
 # sigma : 2
+# sigma orgin: -+6
+#
 #
 # carina_project_id : ENT01B2CCONSOLEMANAGER-1301
 # project markado
