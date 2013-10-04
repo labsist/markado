@@ -1,7 +1,9 @@
 <MTMarkdownOptions output='raw'>
-|||
+
+| id | value |
 | ------------- | :-------------: |
-|![alt text][logo] | [Kardeş Yazılım Danışmanlık Hizmetleri][domain] | 
+| ![alt text][logo] | [Kardeş Yazılım Danışmanlık Hizmetleri][domain] | 
+
 
 
 >![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]
