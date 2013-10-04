@@ -1,6 +1,7 @@
 <MTMarkdownOptions output='raw'>
 
-> ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]
+> | ------------- | :-------------: |
+> |![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]| mmm |
 
 
 >> ##### [Title](http://docs.kardesyazilim.net/grpsku/SYS) : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q[])~~ .
