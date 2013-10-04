@@ -5,7 +5,7 @@
 
 <div id="qrcode"></div>
 <script>
-jquery('#qrcode').qrcode("this plugin is great");
+alert('asdfads');
 </script>
 
 
