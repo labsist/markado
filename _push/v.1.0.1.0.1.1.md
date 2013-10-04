@@ -38,9 +38,9 @@
 
 
 
-| id |department| value | help_group_id | update_time | create_time |
-| ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: |
-| 1 | ![alt text][logo] | laps1  | SYS | NULL| NULL |
+| id |department| value | help_group_id | parent_id | pivot | update_time | create_time |
+| ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| 2 | ![alt text][logo] | laps1  | SYS | 1 | -1 | NULL| NULL |
 
 
 | id | value | update_time | create_time |
