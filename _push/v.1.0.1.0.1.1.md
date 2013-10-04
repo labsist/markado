@@ -21,9 +21,12 @@
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
+
 | id | version | long_version | group | title | help_id | department_id | update_time | create_time |
 | ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
 | 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]| SYS01 | 1 | NULL | NULL |
+
+---
 
 ###systems requirements
 | id | config | title | description | version | type | update_time | create_time |
