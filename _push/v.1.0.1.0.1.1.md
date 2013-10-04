@@ -350,7 +350,7 @@
 >>> ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
 
 
->> ###Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q)~~ .
+>> ####Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q)~~ .
 
 
 > ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]                               
