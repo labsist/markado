@@ -20,7 +20,7 @@
 #document root (_www)
 | id | type | ext | name |title | description | parent_id | user | group | permission |
 | ------------- | :-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | dir | s_www | NULL| Apps Root (_www) | Aplication Default Folder | 0 | _www | _www | 755 |
+| 1 | dir | _www | NULL| Apps Root (_www) | Aplication Default Folder | 0 | _www | _www | 755 |
 
 #file tree
 
@@ -258,8 +258,10 @@
 
 | id | type | name | ext | title | description | parent_id | user | group | permission |
 | ------------- | :-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | dir | app | NULL | Core Folder | Aplication Core Folder | 1 | _www | _www | 755 |
-
+| 2 | dir | app | NULL | Core Folder | Aplication APPS Folder | 1 | _www | _www | 755 |
+| 3 | dir | _core | NULL | Core Folder | Aplication Core Folder | 2 | _www | _www | 755 |
+| 4 | dir | {#MODULEFOLDER#} | NULL | {#MODULEFOLDER#} | Aplication Core {#MODULEFOLDER#} Folder | 3 | _www | _www | 755 |
+| 5 | file | _core | .inc | {#MODULEFILE#} | {#MODULEFILE#} | 3 | _www | _www | 755 |
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
