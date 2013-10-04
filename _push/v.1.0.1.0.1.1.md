@@ -1,4 +1,15 @@
 <MTMarkdownOptions output='raw'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://jeromeetienne.github.io/jquery-qrcode/src/jquery.qrcode.js"></script>
+<script src="http://jeromeetienne.github.io/jquery-qrcode/src/qrcode.js"></script>
+
+<div id="qrcode"></div>
+<script>
+jquery('#qrcode').qrcode("this plugin is great");
+</script>
+
+
+
 
 | id |
 | ------------- | 
