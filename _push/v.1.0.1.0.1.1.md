@@ -88,31 +88,89 @@
 >>**skins**
 >>>**admin**
 >>>> **default**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 >>>> **markado**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 >>>**frontend**
 >>>> **default**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 >>>> **markado**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 
->>>**frontend**
+>>>**mobil**
 >>>> **default**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 >>>> **markado**
->>>>> **`{#MODULEFOLDER#}`**
->>>>>> _`{#MODULEFILE#}`_ 
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
+
+
+>>>**ext**
+>>>> **default**
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
+
+>>>> **markado**
+>>>>> **`{#CSSFOLDER#}`**
+>>>>>> _`{#CSSFILE#}`_
+
+>>>>> **`{#JSFOLDER#}`**
+>>>>>> _`{#JSFILE#}`_
+ 
+>>>>> **`{#IMGFOLDER#}`**
+>>>>>> _`{#IMGFILE#}`_
 
 
 >>var
