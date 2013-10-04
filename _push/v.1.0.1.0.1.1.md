@@ -18,9 +18,9 @@
 
 
 
-| id |
-| ------------- | 
-| ![alt text][logom24] | 
+| id |company_name|
+| ------------- | :-------------: |
+| ![alt text][logom24] | Markado | 
 
 
 
