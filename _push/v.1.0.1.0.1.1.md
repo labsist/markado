@@ -177,13 +177,13 @@
 >>>**logs**
 >>>>**apache**
 
->>>>>_`error_log`_
->>>>>_`acess_log`_
+>>>>> _`error_log_`
+>>>>> `_acess_log_`
 
 >>>>**mysql**
 
->>>>>_`error_log`_
->>>>>_`acess_log`_
+>>>>> _`error_log`_
+>>>>> `_acess_log_`
 
 >>>>**systems**
 
