@@ -86,15 +86,33 @@
 >>>>>>> _`{#MODULEFILE#}`_ 
 
 >>skins
->>>admin
+>>>**admin**
 >>>> **default**
 >>>>> **`{#MODULEFOLDER#}`**
 >>>>>> _`{#MODULEFILE#}`_ 
 
+>>>> **markado**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>**frontend**
 >>>> **default**
 >>>>> **`{#MODULEFOLDER#}`**
 >>>>>> _`{#MODULEFILE#}`_ 
 
+>>>> **markado**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
+
+
+>>>**frontend**
+>>>> **default**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>> **markado**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
 
 
 >>var
