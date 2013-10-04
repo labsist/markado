@@ -207,6 +207,13 @@
 
 >>>>> _`acess_log`_
 
+>>**backup**
+
+>>**database**
+
+>>**cache**
+
+
 
 
 >>index.php
