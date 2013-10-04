@@ -50,42 +50,42 @@
 >>> **_urs** [title] [description] [permission] [user] [group]
 >>>> **admin**
 >>>>> **default**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>>> **markado**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 
 >>>> **frontend**
 >>>>> **default**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>>> **markado**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>> **mobil**
 >>>>> **default**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>>> **markado**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>> **ext**
 >>>>> **default**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
 >>>>> **markado**
->>>>>> **`{#MODULEFOLDER#}`**
->>>>>>> _`{#MODULEFILE#}`_ 
+>>>>>> **`{#EXTENDMODULEFOLDER#}`**
+>>>>>>> _`{#EXTENDMODULEFILE#}`_ 
 
->>skins
+>>**skins**
 >>>**admin**
 >>>> **default**
 >>>>> **`{#MODULEFOLDER#}`**
