@@ -315,11 +315,16 @@
 
 <pre>
 ! : "_www default apache root folder. "
+! : "*FOLDER or *FILE folder array [] "
+¡ : "hash file default : sha1, sha1_key : carina(default) "
 </pre>
+
+
+### variable file type permission list 
 
 | id | value | type | ext | mime_type | update_time | create_time| 
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-|1|{#MERGEFILE#}| file | md5 | text/plain | NULL | NULL|
+|1|{#MERGEFILE#}| file | hash | text/plain | NULL | NULL|
 
 
 
