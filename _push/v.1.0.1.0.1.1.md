@@ -177,8 +177,9 @@
 >>>**logs**
 >>>>**apache**
 
->>>>> `_error_log_`
->>>>> `_acess_log_`
+>>>>> _`error_log`_
+
+>>>>> _`acess_log`_
 
 >>>>**mysql**
 
