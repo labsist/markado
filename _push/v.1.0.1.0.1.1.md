@@ -262,7 +262,10 @@
 >>_`apple[144].png`_
 
 
->#file type permission list
+###file type permission list
+
+
+
 | id | type | name | ext | title | description | prnt_d | user | group | prmssn |
 | ------------- | :------------- |:------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | 
 | 2 | dir | app | NULL | Core Folder | Aplication APPS Folder | 1 | _www | _www | 755 |
