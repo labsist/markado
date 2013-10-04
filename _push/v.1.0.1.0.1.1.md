@@ -86,6 +86,16 @@
 >>>>>>> _`{#MODULEFILE#}`_ 
 
 >>skins
+>>>admin
+>>>> **default**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
+
+>>>> **default**
+>>>>> **`{#MODULEFOLDER#}`**
+>>>>>> _`{#MODULEFILE#}`_ 
+
+
 
 >>var
 
