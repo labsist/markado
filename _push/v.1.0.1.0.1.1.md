@@ -344,10 +344,13 @@
 | 5 | file | {#FILE#} | .inc | {#FILE#} | {#MODULEFILE#} | 3 | _www | _www | 644 |
 
 
+>>>> _page_ 1
+
+
 >>> ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
 
 
->> Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~ and ~~file permission~~.
+>> Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q)~~ .
 
 
 > ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]                               
