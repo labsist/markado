@@ -3,7 +3,7 @@
 > ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]
 
 
->> ##### Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q[])~~ .
+>> ##### [Title](http://docs.kardesyazilim.net/grpsku/SYS) : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q[])~~ .
 
 
 >>>  ~~**v.1.0.1.0.1.1**~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
