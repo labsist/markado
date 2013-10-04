@@ -19,7 +19,7 @@
 
 
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+
 
 
 | id | version | long_version | group | title | help_id | department_id | update_time | create_time |
@@ -37,6 +37,10 @@
 
 
 
+| id |department| value | help_group_id | update_time | create_time |
+| ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: |
+| 1 | ![alt text][logo] | laps1  | SYS | NULL| NULL |
+
 
 | id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
@@ -45,7 +49,20 @@
 | standart | PSR-0 | | |
 | version | v.1.3b | | |
 
+
+
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
+
+
+
+| id | version | long_version | group | title | help_id | department_id | update_time | create_time |
+| ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
+| 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]| SYS01 | 1 | NULL | NULL |
+
+---
+
+
+
 
 
 ###document root (_www)
@@ -307,4 +324,5 @@
 | 5 | file | {#FILE#} | .inc | {#FILE#} | {#MODULEFILE#} | 3 | _www | _www | 644 |
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
+[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 </MTMarkdownOptions>
