@@ -316,11 +316,11 @@
 <pre>
 ! : "_www default apache root folder. "
 ! : "*FOLDER or *FILE folder array [] "
-¡ : "hash file default : sha1, sha1_key : carina(default) "
+¡ : "*hash file default : sha1, sha1_key : carina(default) "
 </pre>
 
 
-### variable file type permission list 
+### variable file type and mime_type  list 
 
 | id | value | type | ext | mime_type | update_time | create_time| 
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -340,6 +340,11 @@
 | 3 | dir | _core | NULL | Core Folder | Aplication Core Folder | 2 | _www | _www | 755 |
 | 4 | dir | {#DIR#} | NULL | {#FOLDER#} | Aplication Core {#MODULEFOLDER#} Folder | 3 | _www | _www | 755 |
 | 5 | file | {#FILE#} | .inc | {#FILE#} | {#MODULEFILE#} | 3 | _www | _www | 644 |
+
+
+
+>> asdfdsa
+
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
