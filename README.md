@@ -68,9 +68,9 @@
 
 >>>>>[v.1.0.1.0.3.0]() 
 >>>>>><pre>
-<a herf="/_push/">v.1.0.1.0.3.1</a>
-<a herf="/_push/">v.1.0.1.0.3.2</a>
-<a herf="/_push/">v.1.0.1.0.3.3</a>
+<a href="/_push/">v.1.0.1.0.3.1</a>
+<a href="/_push/">v.1.0.1.0.3.2</a>
+<a href="/_push/">v.1.0.1.0.3.3</a>
 </pre>
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 
