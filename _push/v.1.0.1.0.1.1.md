@@ -9,9 +9,9 @@
 >>>  ~~**v.1.0.1.0.1.1**~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
 
 
->>>> **_page_**: 1    **_pivot_** : [(0 - {#end_sum_privot#}) / 3] (mod10)   **_childID_** = [v.1.0.1.0.1](./v.1.0.1.0.1.md) **_dept_tags_** : [labs](http://labs.kardesyazilim.net , "Labs Bro Bro Yaylalar Developer")
+>>>> **_page_**: 1 -   **_pivot_** : [(0 - {#end_sum_privot#}) / 3] (mod10)  -  **_childID_** = [v.1.0.1.0.1](./v.1.0.1.0.1.md) - **_dept_tags_** : [labs](http://labs.kardesyazilim.net , "Labs Bro Bro Yaylalar Developer")
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
 
