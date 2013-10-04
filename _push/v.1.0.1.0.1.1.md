@@ -345,7 +345,7 @@
 
 
 
-> ![alt text][logo]                                 ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
+> ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]                                ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
