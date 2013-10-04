@@ -1,23 +1,4 @@
-
-
-<div id="qrcode"></div>
-<script>
-alert('asdfads');
-</script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-<script src="http://jeromeetienne.github.io/jquery-qrcode/src/jquery.qrcode.js"></script>
-<script src="http://jeromeetienne.github.io/jquery-qrcode/src/qrcode.js"></script>
 <MTMarkdownOptions output='raw'>
-
-
-
-
-
-| id |
-| ------------- | 
-| ![alt text][logom24] | 
-
 
 
 >![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]
@@ -32,6 +13,14 @@ alert('asdfads');
 >>>> **_page_**: 1 -   **_pivot_** : [(0 - {#end_sum_privot#}) / 3] (mod10)  -  **_childID_** = [v.1.0.1.0.1](./v.1.0.1.0.1.md) - **_dept_tags_** : [labs](http://labs.kardesyazilim.net , "Labs Bro Bro Yaylalar Developer") - **_help_sku_** : _~~SYS~~_
 
 
+
+
+
+
+
+| id |
+| ------------- | 
+| ![alt text][logom24] | 
 
 
 
