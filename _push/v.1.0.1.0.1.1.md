@@ -313,6 +313,18 @@
 
 
 
+<pre>
+!NOTE : "_www equal apache root folder "
+</pre>
+
+| id |value
+|-|:-:|
+|1|{#MERGEFILE#}|
+
+
+
+
+
 ###file type permission list
 
 
