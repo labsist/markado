@@ -260,8 +260,8 @@
 | ------------- | :-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
 | 2 | dir | app | NULL | Core Folder | Aplication APPS Folder | 1 | _www | _www | 755 |
 | 3 | dir | _core | NULL | Core Folder | Aplication Core Folder | 2 | _www | _www | 755 |
-| 4 | dir | {#MODULEFOLDER#} | NULL | {#MODULEFOLDER#} | Aplication Core {#MODULEFOLDER#} Folder | 3 | _www | _www | 755 |
-| 5 | file | {#MODULEFILE#} | .inc | {#MODULEFILE#} | {#MODULEFILE#} | 3 | _www | _www | 755 |
+| 4 | dir | {#FOLDER#} | NULL | {#MODULEFOLDER#} | Aplication Core {#MODULEFOLDER#} Folder | 3 | _www | _www | 755 |
+| 5 | file | {#FILE#} | .inc | {#MODULEFILE#} | {#MODULEFILE#} | 3 | _www | _www | 755 |
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
