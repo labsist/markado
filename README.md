@@ -45,7 +45,7 @@
 
 
 
-><pre>version - <a href="/_push/" title="Carina Erp v.1b">[v.1b]</a> - [Title][{#version_short_desc#}]</pre>
+<pre>version - <a href="/_push/" title="Carina Erp v.1b">[v.1b]</a> - [Title][{#version_short_desc#}]</pre>
 
 
 >version. [v.1.0._](/_push/v.1.0.md "v.1.0")
