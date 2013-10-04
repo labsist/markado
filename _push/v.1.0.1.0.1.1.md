@@ -1,8 +1,12 @@
 <MTMarkdownOptions output='raw'>
+| id |department|value|help_id| update_time | create_time|
+| ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: |
+| value | help_id|
 
 | id | version | long_version| group | title |update_time | create_time |
-| ------------- |:-------------: |:-------------: |:-------------: | :-------------: |:-------------: |:-------------: | fff
+| ------------- |:-------------: |:-------------: |:-------------: | :-------------: |:-------------: |:-------------: | 
 | 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]|||
+
 
 
 | id | value | update_time | create_time |
