@@ -20,7 +20,7 @@
 #document root (_www)
 | id | type | ext | name |title | description | parent_id | user | group | permission |
 | ------------- | :-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | dir | NULL | _www/ | Apps Root (_www) | Aplication Default Folder | 0 | _www | _www | 755 |
+| 1 | dir | _www/ | NULL| Apps Root (_www) | Aplication Default Folder | 0 | _www | _www | 755 |
 
 #file tree
 
@@ -258,7 +258,7 @@
 
 | id | type | name | ext | title | description | parent_id | user | group | permission |
 | ------------- | :-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | dir | NULL |app/| Core Folder | Aplication Core Folder | 1 | _www | _www | 755 |
+| 1 | dir | app/ | NULL | Core Folder | Aplication Core Folder | 1 | _www | _www | 755 |
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
