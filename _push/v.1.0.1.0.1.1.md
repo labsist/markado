@@ -2,18 +2,16 @@
 
 | id |department| value | help_id | update_time | create_time |
 | ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: |
-| 1 | laps1 | ![alt text][logo] | 00000 | NULL| NULL |
+| 1 | ![alt text][logo] | laps1  | SYS01 | NULL| NULL |
 
 
 
-![alt text][logo]
 
+[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-
-| id | version | long_version| group | title |update_time | create_time |
-| ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]|||
+| id | version | long_version| group | title | help_id | department_id | update_time | create_time |
+| ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
+| 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]| SYS02 | 1 | update_time | create_time |
 
 
 
