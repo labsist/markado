@@ -255,7 +255,7 @@
 >>_`apple[114].png`_
 
 >>_`apple[144].png`_
-s
+
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 </MTMarkdownOptions>
