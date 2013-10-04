@@ -74,7 +74,7 @@
 <a href="/_push/">v.1.0.1.0.3.2</a>
 <a href="/_push/">v.1.0.1.0.3.3</a>
 </pre>
-
+>>>>>>> [Title][{#version_short_desc#}]
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
