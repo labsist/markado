@@ -58,7 +58,7 @@
 <a href="/_push/v.1.0.1.0.1.2.md/">v.1.0.1.0.1.2</a>
 <a href="/_push/v.1.0.1.0.1.3.md/">v.1.0.1.0.1.3</a>
 </pre>
->>>>>>> dsafsd
+>>>>>>> [Title][{#version_short_desc#}]
 
 >>>>>[v.1.0.1.0.2.0]() 
 >>>>>><pre>
@@ -66,6 +66,7 @@
 <a href="/_push/">v.1.0.1.0.2.2</a>
 <a href="/_push/">v.1.0.1.0.2.3</a>
 </pre>
+>>>>>>> [Title][{#version_short_desc#}]
 
 >>>>>[v.1.0.1.0.3.0]() 
 >>>>>><pre>
