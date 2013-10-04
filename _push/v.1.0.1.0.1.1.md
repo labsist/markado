@@ -1,6 +1,6 @@
 <MTMarkdownOptions output='raw'>
 
-| id | value |
+| id |
 | ------------- | 
 | ![alt text][logom24] | 
 
@@ -384,5 +384,5 @@
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo16]: http://kardesyazilim.net/kardes_yazilim_transparent_16.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logom24]: http://kardesyazilim.net/markado24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logom24]: http://kardesyazilim.net/markado_24.png "Markado"
 </MTMarkdownOptions>
