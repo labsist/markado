@@ -184,17 +184,30 @@
 >>>>**mysql**
 
 >>>>> _`error_log`_
->>>>> `_acess_log_`
+
+>>>>> _`acess_log`_
+
 
 >>>>**systems**
 
->>>>>_`error_log`_
->>>>>_`acess_log`_
+>>>>> _`error_log`_
+
+>>>>> _`acess_log`_
+
 
 >>>>**user**
 
->>>>>_`error_log`_
->>>>>_`acess_log`_
+>>>>> _`error_log`_
+
+>>>>> _`acess_log`_
+
+>>>>**apir**
+
+>>>>> _`error_log`_
+
+>>>>> _`acess_log`_
+
+
 
 >>index.php
 
