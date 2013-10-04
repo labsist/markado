@@ -345,7 +345,9 @@
 
 
 >>> ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
->>
+
+
+>> Title : _`systems requirements`_, _`folder tree`_, _`mime/type`_ and _`file permission`_.
 
 
 > ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]                               
