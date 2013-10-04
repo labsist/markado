@@ -1,5 +1,22 @@
 <MTMarkdownOptions output='raw'>
 
+> ![alt text][logo]  [Kardeş Yazılım Danışmanlık Hizmetleri][domain]
+
+
+>> ##### Title : ~~systems requirements~~, ~~folder tree~~, ~~mime/type~~, ~~file permission~~, ~~.htaccess~~  and ~~print_f($q[])~~ .
+
+
+>>>  ~~**v.1.0.1.0.1.1**~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
+
+
+>>>> _page_ 1     
+
+
+
+
+
+
+
 | id |department| value | help_group_id | parent_id | pivot | update_time | create_time |
 | ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 1 | ![alt text][logo] | laps1  | SYS | 0 | 0 |NULL| NULL |
@@ -344,7 +361,7 @@
 | 5 | file | {#FILE#} | .inc | {#FILE#} | {#MODULEFILE#} | 3 | _www | _www | 644 |
 
 
->>>> _page_ 1
+>>>> _page_ : 1
 
 
 >>> ~~**v.1.0.1.0.1.1**~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
