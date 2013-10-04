@@ -317,9 +317,9 @@
 !NOTE : "_www default apache root folder. "
 </pre>
 
-| id |value
-|-|:-:|
-|1|{#MERGEFILE#}|
+| id | value | type | ext | mime_type |update_time | create_time|
+| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+|1|{#MERGEFILE#}| file | md5 | text/plain | NULL | NULL|
 
 
 
