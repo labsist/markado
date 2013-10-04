@@ -217,9 +217,14 @@
 >>>> _`carina_master.logs`_
 
 >>> **markado_2013**
->>>> _`markado_2013.lock`_
+>>>> _`markado_2013[tablename].MYI`_
 
->>>> _`markado_2013.logs`_
+>>>> _`markado_2013[tablename].MYD`_
+
+>>>> _`markado_2013[tablename].frm`_
+
+
+>>>> _`markado_2013.ext`_
 
 >>**cache**
 >>>**{#MERGEFOLDER#}**
