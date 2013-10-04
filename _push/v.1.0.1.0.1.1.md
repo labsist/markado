@@ -343,9 +343,10 @@
 
 
 
-> ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.rm)
+> ![alt text][logo]                                 ~~v.1.0.1.0.1.1~~  up [v.1.0.1.0.1.2](./v.1.0.1.0.1.2.md)
 
 
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo16]: http://kardesyazilim.net/kardes_yazilim_transparent_16.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 </MTMarkdownOptions>
