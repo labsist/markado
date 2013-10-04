@@ -45,10 +45,10 @@
 
 | id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
-| title | Dosya Yapısı |  | |
-| isChild | true | | |
-| standart | PSR-0 | | |
-| version | v.1.3b | | |
+| title | Dosya Yapısı | NULL | NULL |
+| isChild | true | NULL | NULL |
+| standart | PSR-0 | NULL | NULL |
+| version | v.1.3b | NULL | NULL |
 
 
 
@@ -58,7 +58,7 @@
 
 | id | version | long_version | group | title | help_id | department_id | update_time | create_time |
 | ------------- |:-------------: |:-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | v1.0b | v.1.0.1.0.1.1| systems | [title]| SYS01 | 1 | NULL | NULL |
+| 1 | v1.0b | ~~v.1.0.1.0.1.1~~ | systems | [title]| SYS01 | 1 | NULL | NULL |
 
 ---
 
