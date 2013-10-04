@@ -314,7 +314,7 @@
 
 
 <pre>
-!NOTE : "<code><b>_www</b></code> default apache root folder. "
+!NOTE : "**_www** default apache root folder. "
 </pre>
 
 | id |value
