@@ -1,8 +1,8 @@
 <MTMarkdownOptions output='raw'>
 
-| id |department| value | help_group_id | update_time | create_time |
+| id |department| value | help_group_id | parent_id | pivot | update_time | create_time |
 | ------------- | :-------------: | ------------- | :-------------: | ------------- | :-------------: |
-| 1 | ![alt text][logo] | laps1  | SYS | NULL| NULL |
+| 1 | ![alt text][logo] | laps1  | SYS | 0 | 0 |NULL| NULL |
 
 | id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
