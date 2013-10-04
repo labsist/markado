@@ -173,7 +173,23 @@
 >>>>>> _`{#IMGFILE#}`_
 
 
->>var
+>>**var**
+>>>**logs**
+>>>>**apache**
+>>>>>_`error_log`_
+>>>>>_`acess_log`_
+
+>>>>**mysql**
+>>>>>_`error_log`_
+>>>>>_`acess_log`_
+
+>>>>**systems**
+>>>>>_`error_log`_
+>>>>>_`acess_log`_
+
+>>>>**user**
+>>>>>_`error_log`_
+>>>>>_`acess_log`_
 
 >>index.php
 
