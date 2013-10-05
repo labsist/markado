@@ -1,9 +1,9 @@
 <MTMarkdownOptions output='raw'>
 
 <pre>
-<p style="left">left</p>
-<p style="center">center</p>
-<p style="right">right</p>
+<p style="float:left">left</p>
+<p style="float:center">center</p>
+<p style="float:right">right</p>
 
 </pre>
 
