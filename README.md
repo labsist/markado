@@ -1,10 +1,10 @@
 <MTMarkdownOptions output='raw'>
 
-![alt text][logo]
 
-| |id|project| _qr |
-| ------------- | ------------- | ------------- | ------------- |
-| | 1 |![alt text][logo2] | ![alt text][logo3] |
+
+| ![alt text][logo] | id  | project | _qr |
+| :-------------: | ------------- | ------------- | ------------- |
+| ![alt text][logo4] | 1 | ![alt text][logo2] | ![alt text][logo3] |
 
 
 
@@ -13,6 +13,7 @@
 [logo]: http://kardesyazilim.net/k64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo2]: http://kardesyazilim.net/m64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo3]: http://kardesyazilim.net/mqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo4]: http://kardesyazilim.net/ksqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
 
 | id | value | update_time | create_time |
