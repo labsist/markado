@@ -12,5 +12,5 @@ $s =[];
 // user/group
 // http://www.dartmouth.edu/~rc/help/faq/permissions.html
 
-$s = ["read"=>"","read"=>"","read"=>""]
+$s = ["read"=>""];
 ?>
