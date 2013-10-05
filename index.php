@@ -20,5 +20,5 @@ $betik_zd = date_default_timezone_get();
 $q = isset($_GET ['q']) ? $_GET ['q'] : null;
 $q = rtrim($q, '/');
 $q = explode('/', $q);
-print_r($q);
+//phpinfo();
 ?>
