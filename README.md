@@ -2,9 +2,9 @@
 
 ![alt text][logo]
 
-|id|project|
-| ------------- | ------------- |
-| ![alt text][logo2] | ![alt text][logo3] |
+| |id|project| _qr |
+| | ------------- | ------------- | ------------- |
+| | 1 |![alt text][logo2] | ![alt text][logo3] |
 
 
 
