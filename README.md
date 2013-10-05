@@ -1,11 +1,10 @@
 <MTMarkdownOptions output='raw'>
 
-<pre>
+<code>
 <p style="float:left">left</p>
 <p style="float:center">center</p>
 <p style="float:right">right</p>
-
-</pre>
+</code>
 
 | ![alt text][logo] | id  | project | _qr |update_time | create_time |
 | :-------------: | ------------- | ------------- | ------------- | :-------------: |:-------------: |
