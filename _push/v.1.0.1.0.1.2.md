@@ -48,7 +48,7 @@
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
 
 
-
+<!--
 →→ ↸ ⇱ 
 ←←
 ↑↑
@@ -56,7 +56,7 @@
 ↱↴  ⟳ 
 ↳↲      ⥆⥅ ⥼⥽⥾⥿ ⎯ ⏐
 ⨷⨸⨂∆∢ ⨧
-
+-->
 >>>>**_page_**: 1 -   **_pivot_** : [(0 - {#end_sum_privot#}) / 3] (mod10)  -  **_childID_** = [v.1.0.1.0.1](./v.1.0.1.0.1.md) - **_deptID_** : [labs](http://labs.kardesyazilim.net , "Labs Bro Bro Yaylalar Developer") - **_helpSKU_** : _~~SYS~~_
 
 
