@@ -20,7 +20,7 @@
 
 | id |company_name|finger |_qr|
 | ------------- | :-------------: |:-------------: |:-------------: |
-| ![alt text][logom24] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr24] |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] |
 
 
 
@@ -387,6 +387,6 @@
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo16]: http://kardesyazilim.net/kardes_yazilim_transparent_16.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logom24]: http://kardesyazilim.net/markado_24.png "Markado"
-[mqr24]: http://kardesyazilim.net/mqr24.png "Markado"
+[logom48]: http://kardesyazilim.net/markado_48.png "Markado"
+[mqr48]: http://kardesyazilim.net/mqr48.png "Markado"
 </MTMarkdownOptions>
