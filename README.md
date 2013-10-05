@@ -1,6 +1,11 @@
 <MTMarkdownOptions output='raw'>
 
+<pre>
+<p style="left">left</p>
+<p style="center">center</p>
+<p style="right">right</p>
 
+</pre>
 
 | ![alt text][logo] | id  | project | _qr |update_time | create_time |
 | :-------------: | ------------- | ------------- | ------------- | :-------------: |:-------------: |
