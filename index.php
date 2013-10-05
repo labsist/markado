@@ -1,17 +1,13 @@
-<?php 
+<?php
 
-//project start time
+//version check
+//bootstrap login 
+//php configuration special
+//
+//folder permission check
+//core/modlul/class/function/method
 
 
-$raw = '02. 10. 2013';
-$start = \DateTime::createFromFormat('d. m. Y', $raw);
 
-
-
-$end = clone $start;
-$end->add(new \DateInterval('P6D'));
-
-$diff = $end->diff($start);
-echo 'Fark: ' . $diff->format('%m ay, %d gün (toplam: %a gün)') . "\n";
-
+header('Content-type: text/html');
 ?>

@@ -18,9 +18,9 @@
 
 
 
-| id |company_name|
-| ------------- | :-------------: |
-| ![alt text][logom24] | Markado | 
+| id |company_name|finger |_qr| update_time | create_time |
+| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | NULL | NULL |
 
 
 
@@ -104,9 +104,31 @@
 
 >     _www 
 >> **apps** 
->>> **_core** 
->>>> **`{#MODULEFOLDER#}`** 
->>>>> _`{#MODULEFILE#}`_
+>>> **_core**
+>>>> **default**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+>>>> **frontend**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+>>>> **mobil**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+>>>> **admin**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+
+>>>> **ext**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
 
 >>> **_etc** 
 >>>> **locale** 
@@ -387,5 +409,6 @@
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo16]: http://kardesyazilim.net/kardes_yazilim_transparent_16.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logom24]: http://kardesyazilim.net/markado_24.png "Markado"
+[logom48]: http://kardesyazilim.net/m64.png "Markado"
+[mqr48]: http://kardesyazilim.net/mqr64.png "Markado"
 </MTMarkdownOptions>

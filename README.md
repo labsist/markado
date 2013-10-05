@@ -1,19 +1,28 @@
 <MTMarkdownOptions output='raw'>
 
+
 ![alt text][logo]
-![alt text][logo2]
 
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo2]: http://kardesyazilim.net/markado.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
+
+
+
+
+[logom48]: http://kardesyazilim.net/m64.png "Markado"
+[mqr48]: http://kardesyazilim.net/mqr64.png "Markado"
+
+[logo]: http://kardesyazilim.net/k64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo2]: http://kardesyazilim.net/m64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo3]: http://kardesyazilim.net/mqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo4]: http://kardesyazilim.net/kqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
 
 | id | value | update_time | create_time |
 | ------------- |:-------------: |:-------------: |:-------------: |
-| title | Başlarken|  | |
-| isChild | false | | |
-| standart | PSR-0 | | |
-| version | v.1.3b | | |
+| title | Başlarken| NULL | NULL |
+| isChild | false | NULL | NULL |
+| standart | PSR-0 | NULL | NULL |
+| version | v.1.3b | NULL | NULL |
 
 
 
@@ -41,6 +50,16 @@
 
 
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
+
+
+| id |company_name|finger |_qr| version |
+| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | __1.3b__ | 
+
+
+
+
+
 #markado erp. - [carina v.1.1b](_push/v.1.1.b.md) #
 
 
