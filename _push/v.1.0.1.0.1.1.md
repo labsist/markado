@@ -387,6 +387,6 @@
 [domain]: (http://kardesyazilim.net "Kardeş Yazlım Danışmanlık Hizmetleri")
 [logo]: http://kardesyazilim.net/kardes_yazilim_transparent_24.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo16]: http://kardesyazilim.net/kardes_yazilim_transparent_16.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logom48]: http://kardesyazilim.net/markado_48.png "Markado"
+[logom48]: http://kardesyazilim.net/markado_64.png "Markado"
 [mqr48]: http://kardesyazilim.net/mqr48.png "Markado"
 </MTMarkdownOptions>
