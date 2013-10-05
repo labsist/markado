@@ -2,9 +2,7 @@
 
 
 
-| id |company_name|finger |_qr| version |
-| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |
-| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | __1.3b__ | 
+
 
 
 
@@ -50,6 +48,16 @@
 
 
 [Kardeş Yazilim ve Danışmanlık Hizmetleri][domain]
+
+
+| id |company_name|finger |_qr| version |
+| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | __1.3b__ | 
+
+
+
+
+
 #markado erp. - [carina v.1.1b](_push/v.1.1.b.md) #
 
 
