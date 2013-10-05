@@ -104,9 +104,31 @@
 
 >     _www 
 >> **apps** 
->>> **_core** 
->>>> **`{#MODULEFOLDER#}`** 
->>>>> _`{#MODULEFILE#}`_
+>>> **_core**
+>>>> **default**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+>>>> **frontend**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+>>>> **mobil**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+>>>> **admin**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
+
+
+>>>> **ext**
+>>>>> **`{#MODULEFOLDER#}`** 
+>>>>>> _`{#MODULEFILE#}`_
+
 
 >>> **_etc** 
 >>>> **locale** 
