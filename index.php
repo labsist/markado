@@ -1,17 +1,13 @@
-<?php 
-
-//project start time
+<?php
 
 
-$raw = '02. 10. 2013';
-$start = \DateTime::createFromFormat('d. m. Y', $raw);
+//version check
 
 
-
-$end = clone $start;
-$end->add(new \DateInterval('P6D'));
-
-$diff = $end->diff($start);
-echo 'Fark: ' . $diff->format('%m ay, %d gün (toplam: %a gün)') . "\n";
+//bootstrap login 
+//php configuration special
+//
+//folder permission check
+$url = $ENV{'PATH_INFO'};
 
 ?>
