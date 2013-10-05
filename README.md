@@ -2,9 +2,9 @@
 
 
 
-| id |company_name|finger |_qr| update_time | create_time |
-| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
-| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | NULL | NULL |
+| id |company_name|finger |_qr| update_time |
+| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | NULL | 
 
 
 
