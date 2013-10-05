@@ -1,1 +1,2 @@
-
+-- kardesyazilim danismanlik hizmetleri 
+-- utf-8 encode 
