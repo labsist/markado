@@ -21,7 +21,7 @@ date_default_timezone_set('Europe/Istanbul');
 $q = isset($_GET ['q']) ? $_GET ['q'] : null;
 $q = rtrim($q, '/');
 $q = explode('/', $q);
-phpinfo();
+//phpinfo();
 
 
 
