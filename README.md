@@ -3,7 +3,7 @@
 ![alt text][logo]
 ![alt text][logo2]
 
-[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo]: http://kardesyazilim.net/kardes_yazilim_transparent_48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo2]: http://kardesyazilim.net/m64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
 
