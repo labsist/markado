@@ -4,7 +4,7 @@
 ![alt text][logo2]
 
 [logo]: http://kardesyazilim.net/k64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo2]: http://kardesyazilim.net/m48.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo2]: http://kardesyazilim.net/m64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
 
 
