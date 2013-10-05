@@ -1,7 +1,7 @@
 <MTMarkdownOptions output='raw'>
 
 
-> [alt text][logo]
+> ![alt text][logo]
 
 
 
