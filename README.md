@@ -13,7 +13,7 @@
 [logo]: http://kardesyazilim.net/k64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo2]: http://kardesyazilim.net/m64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 [logo3]: http://kardesyazilim.net/mqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo4]: http://kardesyazilim.net/ksqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logo4]: http://kardesyazilim.net/kqr64.png "Kardeş Yazılım Danışmanlık Hizmetleri"
 
 
 | id | value | update_time | create_time |
