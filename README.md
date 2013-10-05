@@ -1,7 +1,7 @@
 <MTMarkdownOptions output='raw'>
 |id|project|
 | ------------- | ------------- |
-|![alt text][logo]|<pre>kkk</pre>|
+|![alt text][logo]|kkk|
 
 
 
