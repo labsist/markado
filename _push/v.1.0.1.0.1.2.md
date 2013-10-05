@@ -60,10 +60,11 @@
 
 >→→progsses basket checkout
 >>→→ true
+>>>→→
 
 
 >>→→ false
-
+>>>→→
 
 
 
