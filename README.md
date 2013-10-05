@@ -2,18 +2,14 @@
 
 
 
-| ![alt text][logo] | id  | project | _qr |update_time | create_time |
-| :-------------: | ------------- | ------------- | ------------- | :-------------: |:-------------: |
-| ![alt text][logo4] | 1 | ![alt text][logo2] | ![alt text][logo3] | NULL | NULL |
+| id |company_name|finger |_qr| update_time | create_time |
+| ------------- | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
+| ![alt text][logom48] | Markado | 6ed919c7ed075bbf8e3362011fda1a7e | ![alt text][mqr48] | NULL | NULL |
 
 
 
-
-
-[logo]: http://kardesyazilim.net/k32.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo2]: http://kardesyazilim.net/m32.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo3]: http://kardesyazilim.net/mqr32.png "Kardeş Yazılım Danışmanlık Hizmetleri"
-[logo4]: http://kardesyazilim.net/kqr32.png "Kardeş Yazılım Danışmanlık Hizmetleri"
+[logom48]: http://kardesyazilim.net/m64.png "Markado"
+[mqr48]: http://kardesyazilim.net/mqr64.png "Markado"
 
 
 | id | value | update_time | create_time |
