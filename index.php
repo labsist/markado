@@ -12,8 +12,11 @@
 
 header('Content-type: text/html');
 
-error_reporting(E_ALL);
-ini_set("display_errors", 1);
+@ini_set("display_errors", 1);
+@ini_set('error_log',  'var/logs/php/error_log'); /* path to server-writable log file */
+@ini_set( 'error_reporting', E_ALL ); /* the php parser to  all errors, excreportept notices.  */
+
+
 date_default_timezone_set('Europe/Istanbul');
 
 $timezone = date_default_timezone_get();
