@@ -1,4 +1,5 @@
 _company/*
 var/*
-nbproject/
+nbproject/*
+.DS_Store
 !empty
