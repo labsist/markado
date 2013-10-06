@@ -64,9 +64,8 @@
 >>>>→→ true 
 
 
->>>>→→ false
+>>>>→→ banks false ( ~~return banks false progsess~~)
 
->→→ banks return false progsess
 
 
 
