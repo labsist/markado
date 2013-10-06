@@ -59,7 +59,7 @@
 -->
 
 >→→progsses basket checkout
->>→→ **__true__**
+>>→→**_true_**
 >>>→→ Banks return 
 >>>>→→ true 
 
