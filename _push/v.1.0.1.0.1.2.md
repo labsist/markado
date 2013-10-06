@@ -61,15 +61,11 @@
 >→→progsses basket checkout
 >>→→**_true_** ( ~~**progsess basket chechout**~~ )
 >>>→→ Banks return 
->>>>→→ true 
+>>>>→→ Banks **_true_** 
 
 
->>>>→→ banks false ( ~~return banks false progsess~~)
+>>>>→→ Banks **_false_** ( ~~return banks false progsess~~)
 
-
-
-
->>>→→
 
 
 >>→→**_false_**( ~~**progsess basket chechout**~~ )
